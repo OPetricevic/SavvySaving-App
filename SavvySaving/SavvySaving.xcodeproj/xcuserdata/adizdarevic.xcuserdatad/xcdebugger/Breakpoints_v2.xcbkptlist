@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2946F12B-FA28-4AF0-9117-9965127994DF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B54AF261-F239-46BC-BA3C-14B303A796F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/RootView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B54AF261-F239-46BC-BA3C-14B303A796F2 - 9db803c32547ed73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in SavvySaving.RootView.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/RootView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "B54AF261-F239-46BC-BA3C-14B303A796F2 - 9db803c32547ecbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in SavvySaving.RootView.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/RootView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "B54AF261-F239-46BC-BA3C-14B303A796F2 - 9db803c32547ecbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.tabItem&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(() -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in SavvySaving.RootView.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/RootView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E878CD1-286F-400C-9B27-57117A78E0D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(transactionListViewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E878CD1-286F-400C-9B27-57117A78E0D9 - 716c4942f4b3fbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.TotalIncomeExpensesView.init(transactionListViewModel: SavvySaving.TransactionListViewModel) -&gt; SavvySaving.TotalIncomeExpensesView"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "4E878CD1-286F-400C-9B27-57117A78E0D9 - ca7ec37ca6592997"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.TotalIncomeExpensesView.init(transactionListViewModel: SavvySaving.ExpensesViewModel) -&gt; SavvySaving.TotalIncomeExpensesView"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F60A7FC-B1BA-4AAB-B97A-5DE993753471"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(transactionListViewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F60A7FC-B1BA-4AAB-B97A-5DE993753471 - 716c4942f4b3fbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.TotalIncomeExpensesView.init(transactionListViewModel: SavvySaving.TransactionListViewModel) -&gt; SavvySaving.TotalIncomeExpensesView"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "4F60A7FC-B1BA-4AAB-B97A-5DE993753471 - ca7ec37ca6592997"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.TotalIncomeExpensesView.init(transactionListViewModel: SavvySaving.ExpensesViewModel) -&gt; SavvySaving.TotalIncomeExpensesView"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A0AAA8-4054-45EB-AAF1-9319AA212198"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(transactionListViewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97A0AAA8-4054-45EB-AAF1-9319AA212198 - aaada8017533edcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.init(transactionListViewModel: SavvySaving.TransactionListViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "97A0AAA8-4054-45EB-AAF1-9319AA212198 - a2ee28102c797b3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.init(transactionListViewModel: SavvySaving.ExpensesViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C797709F-AEEC-4745-A019-D1BF9B371FB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(transactionListViewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C797709F-AEEC-4745-A019-D1BF9B371FB0 - 811d4daa728494c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.__allocating_init(transactionListViewModel: SavvySaving.TransactionListViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "C797709F-AEEC-4745-A019-D1BF9B371FB0 - aaada8017533ec81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.init(transactionListViewModel: SavvySaving.TransactionListViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C797709F-AEEC-4745-A019-D1BF9B371FB0 - 554103460cb471d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.__allocating_init(transactionListViewModel: SavvySaving.ExpensesViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "C797709F-AEEC-4745-A019-D1BF9B371FB0 - a2ee28102c797a74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.IncomeExpenseCalculatorViewModel.init(transactionListViewModel: SavvySaving.ExpensesViewModel) -&gt; SavvySaving.IncomeExpenseCalculatorViewModel"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9D28415-4D39-4834-B329-3DCF1E60DA1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ViewModel/IncomeExpenseCalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "updateCurrentMonthTotals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F66B4769-6830-434A-B7DF-49F1DA6FD8FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC53157A-D66B-4B74-923A-B4545F66DD6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6485CB7E-13C5-406A-80EA-77A2EFB9F2AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/TotalIncomeExpensesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01528A75-A7B7-4E2E-80D4-FA35AB12A3C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Transactions/ViewModels/TransactionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "load()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7614A29B-4924-45CF-8BAE-934602400540"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "loadTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8751F2EE-FAD5-4246-BE1B-EB1921EAE4C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB324D38-0B09-4606-988C-1C45E7E44318"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "loadTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB324D38-0B09-4606-988C-1C45E7E44318 - 37f40a46c664d3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.TransactionsFetchingService.loadTransactions() -&gt; Swift.Array&lt;SavvySaving.Transaction&gt;"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/TransactionsFetchingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EB324D38-0B09-4606-988C-1C45E7E44318 - 8a4b3d799e50e3ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SavvySaving.TransactionsFetchingService.loadTransactions() -&gt; Swift.Array&lt;SavvySaving.Transaction&gt;"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/TransactionsFetchingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "898B02AD-0127-4CEE-B9AA-F54D9C28FC90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "loadTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A4845B6-29B5-4FF9-B0A7-B333BD5DBBC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A4845B6-29B5-4FF9-B0A7-B333BD5DBBC3 - a74a9fef4188aca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SavvySaving.ExpensesViewModel.load() async -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1A4845B6-29B5-4FF9-B0A7-B333BD5DBBC3 - dff23036de4128b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SavvySaving.ExpensesViewModel.load() async -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1A4845B6-29B5-4FF9-B0A7-B333BD5DBBC3 - e7933717eb1bf8a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SavvySaving.ExpensesViewModel.load() async -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B997448C-79C3-4717-8A11-F5BA8F9A250F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "load()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "449C5DB5-88BA-47C5-B434-942EC1458935"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Transactions/ViewModels/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "calculateTotalBalance()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D730CEB-FE16-4800-AACD-3B47E20AE66C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadTestTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D999943-0F39-46A1-94C5-63DFC8032813"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadTestTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D999943-0F39-46A1-94C5-63DFC8032813 - dfa3967bad25c83e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SavvySaving.TransactionsFetchingService.loadTestTransactions() async -&gt; Swift.Array&lt;SavvySaving.Transaction&gt;"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/TransactionsFetchingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0D999943-0F39-46A1-94C5-63DFC8032813 - 31060c33b19c0751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SavvySaving.TransactionsFetchingService.loadTestTransactions() async -&gt; Swift.Array&lt;SavvySaving.Transaction&gt;"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/TransactionsFetchingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "0D999943-0F39-46A1-94C5-63DFC8032813 - f52d37cab3eb0c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SavvySaving.TransactionsFetchingService.loadTestTransactions() async -&gt; Swift.Array&lt;SavvySaving.Transaction&gt;"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/TransactionsFetchingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DDEA7F7-C927-4D15-8CE8-1C72DA3D75E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/TransactionsFetchingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "loadTestTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29B3E3EE-3928-4E64-AF55-648533117FE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/ExpensesScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "29B3E3EE-3928-4E64-AF55-648533117FE4 - bc46a723bd2dee5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SavvySaving.TotalBalanceView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.ExpensesScreen.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/ExpensesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "29B3E3EE-3928-4E64-AF55-648533117FE4 - bc46a723bd2dee5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SavvySaving.TotalBalanceView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.ExpensesScreen.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/Views/ExpensesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F292F203-74B9-4BEC-B830-1421CA4536D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/Views/ExpensesScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5269F0F7-11B9-402B-9399-881F5135D5BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "sum(of:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9B061F0-891A-495E-8609-859FCB4CAD0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "sum(of:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAB796E9-421A-4EAF-95B0-78934D6F694B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "sum(of:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D368A28C-110F-4AAB-A0D0-C3D3C0717F22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ExpensesScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D368A28C-110F-4AAB-A0D0-C3D3C0717F22 - ba17b01f19555bd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.ExpensesScreen.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ExpensesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "D368A28C-110F-4AAB-A0D0-C3D3C0717F22 - 7bb0f1712f28cc6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.ExpensesScreen.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ExpensesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D368A28C-110F-4AAB-A0D0-C3D3C0717F22 - 3370bcb108e997e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.ExpensesScreen.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ExpensesScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7797AA16-E4FA-4146-A83D-D3B885EAF24F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/AddTransactionAmel/AddTransactionScreenAmel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7797AA16-E4FA-4146-A83D-D3B885EAF24F - 4b3607461127bdf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.AddTransactionScreenAmel.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionScreenAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "7797AA16-E4FA-4146-A83D-D3B885EAF24F - 9020dd5d85803661"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in SavvySaving.AddTransactionScreenAmel.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionScreenAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7797AA16-E4FA-4146-A83D-D3B885EAF24F - 63f61d9df991137c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in SavvySaving.AddTransactionScreenAmel.body.getter : some"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionScreenAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE99978-6BCE-4CCB-AC51-14F523F0AE27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "save()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CE99978-6BCE-4CCB-AC51-14F523F0AE27 - 152050e74252f960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.AddTransactionViewModelAmel.save() -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "8CE99978-6BCE-4CCB-AC51-14F523F0AE27 - 152050e74252f960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.AddTransactionViewModelAmel.save() -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77597E34-D363-4F47-9530-CA3932B650E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "save()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77597E34-D363-4F47-9530-CA3932B650E4 - 152050e74252fa2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.AddTransactionViewModelAmel.save() -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "77597E34-D363-4F47-9530-CA3932B650E4 - 152050e74252fa2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SavvySaving.AddTransactionViewModelAmel.save() -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/AddTransactionAmel/AddTransactionViewModelAmel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "700827D0-EB04-474B-96FC-67F3DDFF723D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SavvySaving/Expenses/ExpensesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "700827D0-EB04-474B-96FC-67F3DDFF723D - d2b7482e1505a103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SavvySaving.ExpensesViewModel.load() async -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ExpensesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "700827D0-EB04-474B-96FC-67F3DDFF723D - 926ee0d6bf96f50d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SavvySaving.ExpensesViewModel.load() async -&gt; ()"
+                  moduleName = "SavvySaving"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adizdarevic/Projects/Other/OmarProject/SavvySaving/SavvySaving/Expenses/ExpensesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
