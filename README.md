@@ -1,2 +1,2 @@
-# SavvySaving-ExpenseTracker
+# SavvySaving
 SavvySavingApp
